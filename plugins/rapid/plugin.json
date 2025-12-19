@@ -1,0 +1,32 @@
+{
+  "name": "rapid",
+  "version": "1.0.0",
+  "description": "Development workflow automation plugin with 8 specialized skills for managing the entire development lifecycle",
+  "author": "syuhei176",
+  "repository": "https://github.com/syuhei176/claude-plugin",
+  "keywords": ["pm"],
+  "commands": [
+    "./commands/architect.md",
+    "./commands/implementer.md",
+    "./commands/spec-writer.md",
+    "./commands/tester.md",
+    "./commands/reviewer.md",
+    "./commands/pm.md",
+    "./commands/frontend-design.md",
+    "./commands/visualizer.md",
+    "./commands/clean-architecture.md",
+    "./commands/blockchain-architect.md"
+  ],
+  "agents": [
+    "./agents/architect.md",
+    "./agents/implementer.md",
+    "./agents/spec-writer.md",
+    "./agents/tester.md",
+    "./agents/reviewer.md",
+    "./agents/project-manager.md",
+    "./agents/frontend-design.md",
+    "./agents/visualizer.md",
+    "./agents/clean-architecture.md",
+    "./agents/blockchain-architect.md"
+  ]
+}

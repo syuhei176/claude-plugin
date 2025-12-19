@@ -1,0 +1,12 @@
+{
+  "name": "hyper",
+  "owner": {
+    "name": "syuhei176"
+  },
+  "plugins": [
+    {
+      "name": "rapid",
+      "source": "./plugins/rapid"
+    }
+  ]
+}
